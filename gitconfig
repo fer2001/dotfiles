@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = fnando@me.com
+	name = Fernando Rodrigues
